@@ -112,10 +112,12 @@ No tests at this time
   <a name="linksection"></a>
   ## Links
 
-  Deployed Heroku Site: https://laurels-book-search-engine.herokuapp.com/
+  Deployed Heroku Site: https://laurels-redux-store.herokuapp.com/
   
   Github Site: https://github.com/laurelthorburn/Redux-Store
 
   <a name="creditsection"></a>
 ## Resources/Credit
-* 
+* https://redux.js.org/
+* https://redux.js.org/tutorials/fundamentals/part-1-overview
+* https://devcenter.heroku.com/articles/nodejs-support#specifying-an-npm-version
