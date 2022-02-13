@@ -2,7 +2,7 @@
 
 <a name="descsection"></a>
 ## Description
-Coming soon...
+Refractoring code from one platform to another is an essential part of being a web developer.  In this project, I took a fully functioning website that was using React's Global State and refractored it to [Redux](https://redux.js.org/). Redux was not something I had previous experience with so I relied on Redux's documentation to guide me through this process. Now, go shopping and let Redux do the rest. 🛒🛍️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
