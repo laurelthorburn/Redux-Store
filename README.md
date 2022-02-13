@@ -132,15 +132,8 @@ No tests at this time
 
   Deployed Heroku Site: https://laurels-book-search-engine.herokuapp.com/
   
-  Github Site: https://github.com/laurelthorburn/book-search-engine
+  Github Site: https://github.com/laurelthorburn/Redux-Store
 
   <a name="creditsection"></a>
 ## Resources/Credit
-* https://stackoverflow.com/questions/69034677/error-you-must-await-server-start-before-calling-server-createhandler-i
-* https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/
-* https://graphql.org/learn/schema/
-* https://www.youtube.com/watch?v=qux4-yWeZvo
-* https://odyssey.apollographql.com/lift-off-part1/the-usequery-hook
-* https://www.apollographql.com/docs/react/data/mutations/
-* https://www.apollographql.com/docs/react/networking/authentication/
-* https://github.com/apollographql/apollo-client/issues/5808
+* 
