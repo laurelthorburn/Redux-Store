@@ -121,3 +121,4 @@ No tests at this time
 * https://redux.js.org/
 * https://redux.js.org/tutorials/fundamentals/part-1-overview
 * https://devcenter.heroku.com/articles/nodejs-support#specifying-an-npm-version
+* https://dev.to/lawrence_eagles/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl
