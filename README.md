@@ -123,3 +123,4 @@ No tests at this time
 * https://devcenter.heroku.com/articles/nodejs-support#specifying-an-npm-version
 * https://dev.to/lawrence_eagles/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl
 * https://stackoverflow.com/questions/54058113/cant-view-express-react-app-in-heroku-concurrently-not-found
+* Huge shout out to Daniel Soledad and Sam Fox for having HUGE brains 🧠🧠🧠 #brainsfordays
