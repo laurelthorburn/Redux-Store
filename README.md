@@ -105,8 +105,8 @@ No tests at this time
   ## Screenshots
   ![Screenshot of Main Page](./media/Screenshot1.png)
   ![Screenshot of Sign In Page](./media/Screenshot2.png)
-  ![Screenshot of Search Bar](./media/Screenshot3.png)
-  ![Screenshot of Saved Books](./media/Screenshot4.png)
+  ![Screenshot of Cart](./media/Screenshot3.png)
+  ![Screenshot of Stripe Payment](./media/Screenshot4.png)
 
 
   <a name="linksection"></a>
